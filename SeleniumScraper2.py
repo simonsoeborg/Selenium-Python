@@ -8,6 +8,7 @@
 # Author: Simon Søborg
 # For educational purpose only. 
 
+from attr import define
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.keys import Keys
