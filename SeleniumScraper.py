@@ -1,4 +1,7 @@
 # Simple Websraping tool, that looks at the boxgrid on politi.dk and gives me the titles of each box and the href link
+# Author: Simon Søborg
+# For educational purpose only. 
+
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager

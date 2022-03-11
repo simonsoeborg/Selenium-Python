@@ -1,5 +1,6 @@
-# Testing Selenium with Python. 
+## For Educational Purpose only
+### Never enter in a website, especially in SeleniumScraper2.py that you do not have the permission to test or use. 
 
-## Collecting Data from Websites 
+### Using these tools can be used to look for vulnerabilities on sites.
 
-Using Python 3 and Pip 3
+### This is written especially for me to test Selenium and some basic usecases. 
